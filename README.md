@@ -1,1 +1,3 @@
-# literally-ghostping-spammer
+# Literally Ghostping Spammer
+
+Literally spams ghostpings.
