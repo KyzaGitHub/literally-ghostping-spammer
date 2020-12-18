@@ -1,3 +1,3 @@
-# Literally Ghostping Spammer
+# DevilBro Facecam Plugin
 
-Literally spams ghostpings.
+See DevilBro facecam reveal.
